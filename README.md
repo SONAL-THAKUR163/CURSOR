@@ -5,7 +5,6 @@ A simple web project where the cursor moves smoothly with your mouse pointer acr
 Built with **HTML**, **CSS**, and **JavaScript**.  
 
 ## How to Use
-- Open `index.html` in your browser.
 - Move your mouse and watch the cursor follow!  
 
 Enjoy the interactive effect! 🚀
